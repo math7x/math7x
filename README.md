@@ -1,9 +1,9 @@
 ## Sobre
 
 - Experiência com suporte técnico, automação comercial e resolução de incidentes;
-- desenvolvimento de ferramentas para reduzir tarefas manuais, erros e retrabalho;
-- atuação com integrações de sistemas, processamento de planilhas e automação de interfaces web;
-- cursando Análise e Desenvolvimento de Sistemas.
+- Desenvolvimento de ferramentas para reduzir tarefas manuais, erros e retrabalho;
+- Atuação com integrações de sistemas, processamento de planilhas e automação de interfaces web;
+- Cursando Análise e Desenvolvimento de Sistemas.
 
 ## Tecnologias
 

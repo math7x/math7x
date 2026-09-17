@@ -1,4 +1,4 @@
-# Olá, eu sou o math7x 👋
+# Olá, me chamo Matheus! 👋
 
 Analista de Suporte Pleno que desenvolve automações, extensões de navegador e integrações para resolver problemas reais do dia a dia.
 

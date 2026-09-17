@@ -15,7 +15,3 @@
 - [CPlug — Ficha Técnica](https://github.com/math7x/cplug-ficha-tecnica) — diagnóstico e sincronização assistida de custos de fichas técnicas.
 - [CPlug — Exportador de Chaves](https://github.com/math7x/cplug-exportador-chaves) — coleta paginada de chaves de produtos e complementos com exportação para Excel.
 - [SAIPOS — Autorizar notas fiscais](https://github.com/math7x/saipos-autorizar-notas-fiscais) — processamento sequencial de notas pendentes e tratamento de contingência.
-
-## Interesses profissionais
-
-Automação de processos, desenvolvimento de ferramentas internas, integrações de sistemas, suporte técnico e melhoria contínua.
